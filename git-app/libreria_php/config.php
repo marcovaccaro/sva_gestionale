@@ -40,7 +40,7 @@ date_default_timezone_set("Europe/Rome");
 
 //ANNO AUTOMATICO
 //define("ANNO", (int)date("Y"));
-define("ANNO", "2016");
+define("ANNO", "2017");
 define("MESE", (int)date("m"));
 define("MESEP", utf8_encode(strftime ("%B")));
 define("GIORNO", (int)date("d"));
